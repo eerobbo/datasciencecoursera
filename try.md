@@ -1,3 +1,4 @@
+<<<<<<< HEAD:try.md
 {\rtf1\ansi\ansicpg1252\cocoartf1343\cocoasubrtf160
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
@@ -6,3 +7,7 @@
 
 \f0\fs24 \cf0 ls\
 ## try try try}
+=======
+## This is a Markdown file
+*3456th times the charm
+>>>>>>> 2a1a26e1d89c6c4de2a940a78b8eb1d220f5fc39:HelloWorld.md
